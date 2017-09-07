@@ -347,7 +347,7 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/AppDelegate.o: \
  /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/../cocos2d/cocos/3d/../deprecated/CCSet.h \
  /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h \
  /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/../cocos2d/cocos/3d/../deprecated/CCDeprecated.h \
- jni/../../Classes/HelloWorldScene.h
+ jni/../../Classes/HelloWorldScene.h jni/../../Classes/MainMenu.h
 
 jni/../../Classes/AppDelegate.h:
 
@@ -1046,3 +1046,5 @@ jni/../../Classes/AppDelegate.h:
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/../cocos2d/cocos/3d/../deprecated/CCDeprecated.h:
 
 jni/../../Classes/HelloWorldScene.h:
+
+jni/../../Classes/MainMenu.h:
