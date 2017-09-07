@@ -6,9 +6,21 @@
 //
 //
 
-#ifndef MainMenu_h
-#define MainMenu_h
+#pragma once
 
-#include <stdio.h>
+#include "cocos2d.h"
 
-#endif /* MainMenu_h */
+USING_NS_CC;
+
+class MainMenu: public Layer
+{
+    
+public:
+    static Scene* createScene();
+    
+    virtual bool init();
+    
+    
+    //implements the "createScene()" function manually
+    CREATE_FUNC(MainMenu);
+};
