@@ -10,6 +10,11 @@
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/CloseSelected.png \
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/fonts \
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/HelloWorld.png \
+/Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/ipad \
+/Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/ipadhd \
+/Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/iphone \
+/Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/iphonehd \
+/Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/iphonehd5 \
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/res \
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/fonts/arial.ttf \
 /Users/rypapp/Documents/Development/GitRepos/Cocos2d-x/3.10/SkullCodeSpace/SkullCode/proj.android/assets/fonts/Marker Felt.ttf \
