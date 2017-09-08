@@ -8,6 +8,7 @@
 
 #include "MainMenu.h"
 #include "Constants.h"
+#include "Utils.h"
 
 USING_NS_CC;
 
