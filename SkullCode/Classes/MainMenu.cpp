@@ -7,6 +7,7 @@
 //
 
 #include "MainMenu.h"
+#include "Constants.h"
 
 USING_NS_CC;
 
