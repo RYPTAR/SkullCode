@@ -20,8 +20,8 @@ Vec2 Utils::origin(){
 }
 
 Vec2 Utils::center(){
-    Vec2 center;
-    center.y = screenRes().width / 2;
-    center.x = screenRes().height / 2;
+    Vec2 center = screenRes();
+    center.y /= 2;
+    center.x /= 2;
     return center;
 }

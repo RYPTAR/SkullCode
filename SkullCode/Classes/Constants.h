@@ -13,7 +13,7 @@
 USING_NS_CC;
 
 #define HIGH_SCORE "highscore"
-#define FONT "MARKERFELT"
+#define FONT "fonts/Marker Felt.ttf"
 
 typedef enum {
     TAG_MAIN,

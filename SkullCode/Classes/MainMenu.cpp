@@ -32,5 +32,11 @@ bool MainMenu::init() {
     if ( !Layer::init() )
         return false;
     
+    auto label = Label::createWithTTF("MAINMENU!", FONT, 24);
+    label->setTextColor(Color4B::WHITE);
+    label->setPosition(Vec2(Utils::origin().x + Utils::center().x,
+                            Utils::origin().y + Utils::center().y + label->getContentSize().height));
+    this->addChild(label, 1);
+    
     return true;
 }
