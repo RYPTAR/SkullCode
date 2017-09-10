@@ -32,11 +32,21 @@ bool MainMenu::init() {
     if ( !Layer::init() )
         return false;
     
-    auto label = Label::createWithTTF("MAINMENU!", FONT, 24);
-    label->setTextColor(Color4B::WHITE);
+    //log(Utils::origin().x);
+    auto label = Label::createWithTTF("MAINMENU!", "fonts/arial.ttf", 24);
+    label->setTextColor(Color4B::RED);
+    //label->setString("Main Menu!");
     label->setPosition(Vec2(Utils::origin().x + Utils::center().x,
                             Utils::origin().y + Utils::center().y + label->getContentSize().height));
     this->addChild(label, 1);
+    
+    /*auto background = Sprite::create("HelloWorld.png");
+    background->setPosition(Vec2(Utils::origin().x + Utils::center().x,
+                                 Utils::origin().y + Utils::center().y ));
+    this->addChild(background, 0);*/
+     
+    auto background = LayerColor::create(Color4B::WHITE);
+    this->addChild(background);
     
     return true;
 }
